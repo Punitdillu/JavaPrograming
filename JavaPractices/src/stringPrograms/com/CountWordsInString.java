@@ -1,4 +1,4 @@
-package arithmatic.com;
+package stringPrograms.com;
 
 public class CountWordsInString {
 
